@@ -48,7 +48,7 @@ public class Calculate {
 
 	public static double div(int x, int y) {
 		// 실수로 반환이 되도록 구현
-
-		return 0;
+		double z=(double)x/y;
+		return z;
 	}
 }
